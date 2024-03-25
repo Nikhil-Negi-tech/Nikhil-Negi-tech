@@ -21,7 +21,7 @@ I'm a passionate engineering student from Delhi, India, currently studying Elect
 
 ### Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/nikhil-negi-connect)
+(www.linkedin.com/in/nikhil-negi-connect)
 
 ---
 
