@@ -47,7 +47,7 @@ I'm a passionate engineering student from Delhi, India, currently studying Elect
 
 ### Github Streak Stat:
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Nikhil-Negi-tech&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Nikhil-Negi-tech&theme=dark)](https://git.io/streak-stats)
 
 ### Connect with me:
 
