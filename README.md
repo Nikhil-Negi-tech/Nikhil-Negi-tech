@@ -43,7 +43,7 @@ I'm a passionate engineering student from Delhi, India, currently studying Elect
 
 ### Language used:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-Negi-tech)](https://github.com/Nikhil-Negi-tech/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-Negi-tech&theme=dark&langs_count=10&layout=compact)](https://github.com/Nikhil-Negi-tech/github-readme-stats)
 
 ### Github Streak Stat:
 
