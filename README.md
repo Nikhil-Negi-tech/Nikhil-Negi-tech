@@ -39,7 +39,7 @@ I'm a passionate engineering student from Delhi, India, currently studying Elect
 
 ### Stats About Me:
 
-![Nikhil's github stats](https://github-readme-stats.vercel.app/api?username=Nikhil-Negi-tech)
+![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhil-Negi-tech&show_icons=true&theme=dark)
 
 ### Language used:
 
