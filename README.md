@@ -38,7 +38,8 @@ I'm a passionate engineering student from Delhi, India, currently studying Elect
 - 🚀 Fun fact: I'm always up for a challenge, whether it's coding, problem-solving, or trying out new skills!
 
 ### Stats About Me:
-<img align="left" alt="codeSTACKr's Github Stats" src="https:// github-readme-stats.vercel.app/api?Nikhil-Negi-tech=codeSTACKr&show_icons=true& hide_border=true">
+
+<img align="left" alt="codeSTACKr's Github Stats" src="https:// github-readme-stats.vercel.app/api?username=Nikhil-Negi-tech&show_icons=true& hide_border=true">
 
 ### Connect with me:
 
