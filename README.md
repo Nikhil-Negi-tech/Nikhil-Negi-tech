@@ -1,17 +1,18 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6E57F7&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Nikhil+Negi+%F0%9F%91%8B;Full+Stack+Developer;AI+%2F+ML+Engineer;Building+things+that+matter.)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6E57F7&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Nikhil+Negi+%F0%9F%91%8B;Full+Stack+Developer;AI+%2F+ML+Engineer;Building+things+that+matter." alt="Typing SVG" /></a>
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Nikhil-Negi-tech&style=flat-square&color=6E57F7" alt="profile views" />
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nikhil-negi-00566126a/)
+<a href="https://www.linkedin.com/in/nikhil-negi-connect"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" /></a>
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6E57F7?style=flat-square&logo=firefox-browser)](https://nikhil-negi-portfolio.vercel.app/)
+<a href="https://nikhil-negi-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-6E57F7?style=flat-square&logo=vercel&logoColor=white" /></a>
 &nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Nikhil_Negi/)
+<a href="https://leetcode.com/u/Nikhil_Negi/"><img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
 
 </div>
-
 ---
 
 ## ⚡ About Me
