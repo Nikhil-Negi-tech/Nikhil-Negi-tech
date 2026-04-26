@@ -4,7 +4,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Nikhil-Negi-tech&style=flat-square&color=6E57F7" alt="profile views" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Nikhil-Negi-tech.Nikhil-Negi-tech&style=for-the-badge" />
 &nbsp;
 <a href="https://www.linkedin.com/in/nikhil-negi-connect"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" /></a>
 &nbsp;
